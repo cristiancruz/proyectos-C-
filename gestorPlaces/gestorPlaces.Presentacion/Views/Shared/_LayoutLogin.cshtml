@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="~/Content/css/login.css">
+</head>
+<body>
+    <div id="content-principal">
+
+        <div id="logo">
+
+        </div>
+        @RenderBody()
+
+        <div id="formulario">
+
+            <div class="labelform"><label for="name">Usuario:</label></div>
+            <div><input type="text" placeholder="example@hotmail.com" required></div>
+
+            <div class="labelform"><label for="name">Password:</label></div>
+            <div><input type="password" placeholder="****" required></div>
+
+            <div id="btnGuardar">
+                <button><a href="@Url.Action("Clientes","Home")"><img src="img/arrow.png" alt="logearse"></a></button>
+            </div>
+
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Todos los derechos reservados 2015*</p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class lazy="false" table="Categoria" name="gestorPlaces.Nucleo.Entidades.Categoria, gestorPlaces.Nucleo">
+
+    <!--Id automático DB-->
+    <id name="Id" type="int">
+      <column name="id"/>
+      <generator class="identity"/>
+    </id>
+
+    <!-- Propiedad nombre -->
+    <property name="Nombre" type="string">
+      <column name="nombre"/>
+    </property>
+
+  </class>
+</hibernate-mapping>

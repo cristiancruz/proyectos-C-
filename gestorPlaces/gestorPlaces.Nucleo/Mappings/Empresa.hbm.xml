@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class lazy="false" table="Empresa" name="gestorPlaces.Nucleo.Entidades.Empresa, gestorPlaces.Nucleo">
+
+    <!--Id automático DB-->
+    <id name="Id" type="int">
+      <column name="id"/>
+      <generator class="identity"/>
+    </id>
+
+    <!-- Propiedad nombre -->
+    <property name="Nombre" type="string">
+      <column name="nombre"/>
+    </property>
+
+    <!-- Propiedad nombre -->
+    <property name="Telefono" type="string">
+      <column name="telefono"/>
+    </property>
+
+
+
+    <!-- Propiedad nombre -->
+    <property name="Rating" type="int">
+      <column name="rating"/>
+    </property>
+
+    <!-- Propiedad nombre -->
+    <property name="Direccion" type="string">
+      <column name="direccion"/>
+    </property>
+
+    <!-- Propiedad nombre -->
+    <property name="Descripcion" type="string">
+      <column name="descripcion"/>
+    </property>
+
+    
+    
+    
+
+    <many-to-one name="cliente" column="idCliente" class="gestorPlaces.Nucleo.Entidades.Cliente" lazy="false" not-null="false" />
+    <many-to-one name="categoria" column="idCategoria" class="gestorPlaces.Nucleo.Entidades.Categoria" lazy="false" not-null="false"/>
+    
+  </class>
+</hibernate-mapping>

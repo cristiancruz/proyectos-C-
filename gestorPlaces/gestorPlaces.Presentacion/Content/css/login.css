@@ -1,0 +1,110 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+body{
+    font-family: Century Gothic;
+    background-color: #222;
+}
+#content-principal{
+    padding: 20px;
+}
+#logo{
+    width: 200px;
+	height:200px;
+    margin-top:40px;
+    z-index: 5;
+}
+#formulario{
+    padding: 10px;
+    margin-top: -10px;
+    width: 320px;
+    height: 300px;
+}
+.labelform{
+    color: #a8a7a8;
+    width: 100%;
+    line-height: 40px;
+    font-weight: 100;
+    text-align: center;
+    letter-spacing: 1px;
+}
+input{
+    text-align: center;
+    width: 320px;
+    height: 40px;
+    color: #bbb;
+    text-shadow: 1px 1px 1px black;
+    background: rgba(0, 0, 0, 0.16);
+    border: 0;
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);
+    box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);
+}
+#btnGuardar{
+    text-align: center;
+}
+button{
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    margin-top: 15px;
+    background:#00BEED;
+    border-radius: 800px;
+}
+p{
+    color:#bbb;
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+}
+
+/*---------------------------Media Queries---------------------------*/
+/*Pantalla celular*/
+@media screen and (max-width: 480px) {
+    #logo{
+     width: 100px;
+	 height:100px;
+
+     background: url('../../img/smallLogo.png') no-repeat;
+    }
+    #formulario{
+     width:70%;
+     height: 70%;
+}
+    input{
+     width: 100%;
+}
+    button{
+     width: 35px;
+     height: 35px;
+    } 
+}
+/*Pantalla tablet*/
+@media screen and (min-width: 481px) and (max-width: 768px){
+    #logo{
+     background: url('../../img/MedLogo.png')no-repeat;
+    }
+    #formulario{
+     width:60%;
+     height: 60%;
+}
+    input{
+     width: 100%;
+}
+    button{
+     width: 40px;
+     height: 40px;        
+    } 
+    
+}   
+/*Para equipo de escritorio*/
+@media screen and (min-width: 769px) {
+    #logo{
+     background: url('../../img/MedLogo.png')no-repeat;
+    }
+    #formulario{
+     height: 250px;
+    
+}
+}

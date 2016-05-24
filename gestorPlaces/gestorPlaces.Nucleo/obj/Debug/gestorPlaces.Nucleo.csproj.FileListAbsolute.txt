@@ -1,0 +1,57 @@
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Iesi.Collections.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\MySql.Data.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\NHibernate.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Iesi.Collections.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\MySql.Data.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\NHibernate.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Cliente.hbm.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Cliente.hbm.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Empresa.hbm.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Categoria.hbm.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Cliente.hbm.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Empresa.hbm.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Categoria.hbm.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Cliente.hbm.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Empresa.hbm.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Categoria.hbm.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Cliente.hbm.xml
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Empresa.hbm.xml
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Categoria.hbm.xml
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.dll
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.dll
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\CristianAlejandro\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Cliente.hbm.xml
+C:\Users\CristianAlejandro\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Empresa.hbm.xml
+C:\Users\CristianAlejandro\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\Mappings\Categoria.hbm.xml
+C:\Users\CristianAlejandro\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.dll
+C:\Users\CristianAlejandro\Documents\gestorPlaces\gestorPlaces.Nucleo\bin\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\CristianAlejandro\Documents\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\CristianAlejandro\Documents\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.dll
+C:\Users\CristianAlejandro\Documents\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.pdb
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Nucleo\obj\Debug\gestorPlaces.Nucleo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,95 @@
+﻿@{
+    ViewBag.Title = "reportes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model gestorPlaces.Nucleo.Entidades.Cliente
+@using gestorPlaces.Nucleo.Entidades;
+<p class="info-seccion" id="vete">En esta sección podrás gestionar la información sobre las empresas  y clientes con la finalidad de poder vizualizar y poder generar reportes dependiento de la necesidad del momento, a si como analizar la informacion mas importante.</p>
+
+<div class="tabs">
+    <ul class="tabs-nav">
+        <li id="pestana1"><a href="#tab1">Clientes</a></li>
+        <li id="pestana2"><a href="#tab2">Empresas</a></li>
+    </ul>
+
+    <div id="tab1" class="contenido">
+        <div class="AreaBusquedas">
+            <div class="reportes-busquedas">
+                <input id="buscar" type="search" class="txtbuscador2" placeholder="Buscar clientes..." onkeyup="buscar()">
+                <button type="submit" class="btn-search2"><span class="icon-search" onclick="buscar()"></span></button>
+            </div>
+            <div class="ResultClientes">
+                <ul id="resultClientes">
+                    @foreach (Cliente cliente in Cliente.ObteneTodos())
+                    {
+                        <li onclick="selecCliente(@cliente.Id)">@cliente.Nombre</li>
+                    }
+                </ul>
+            </div>
+
+        </div>
+        <div class="Area-Resultados-table">
+            <div class="filtros">
+                <div class="filt2">
+                    <input id="azCliente" type="radio" name="filtroC2" value="Menor" checked onclick="selecClienteAZ()">A-Z &nbsp; &nbsp;
+                    <input id="zaCliente" type="radio" name="filtroC2" value="Mayor" onclick="selecClienteZA()">Z-A
+                </div>
+            </div>
+            <div id="contentTable">
+                <table class="tblResult">
+                    <thead>
+                        <tr>
+                            <td>Empresa</td>
+                            <td>Telefono</td>
+                            @*<td>Direccion</td>
+                                <td>Ubicacion</td>*@
+                            <td>Rating</td>
+                            <td>Cliente</td>
+
+                        </tr>
+                    </thead>
+                    <table class="tblResult">
+                        <tbody id="resultEmpresas"></tbody>
+                    </table>
+            </div>
+            <button class="btnPDF" onclick="generarPDF()">Generar PDF <span class="icon-profile"></span></button>
+        </div>
+
+    </div>
+
+</div>
+<div id="tab2" class="contenido">
+    <div class="AreaBusquedas">
+        <div class="reportes-busquedas">
+            <input type="search" class="txtbuscador2" placeholder="Buscar Empresas...">
+            <button type="submit" class="btn-search2"><span class="icon-search"></span></button>
+        </div>
+        <div class="ResultEmpresas">
+            <ul>
+                @foreach (Empresa empresas in Empresa.ObteneTodos())
+                {
+                    <li onclick="selecEmpresa(@empresas.Id,@empresas.cliente.Id)">@empresas.Nombre</li>
+                }
+            </ul>
+        </div>
+
+    </div>
+    <div class="Area-Resultados-table">
+       
+        <div id="contentTable">
+            <table class="tblResult">
+                <thead>
+                    <tr>
+                        <td>Cliente</td>
+                        <td>Fecha</td>
+                        <td>Pago</td>
+                        <td>Tarifa</td>
+                    </tr>
+                </thead>
+
+                <tbody id="resultadoClientes"></tbody>
+            </table>
+        </div>
+        <button class="btnPDF" onclick="generarPDF()">Generar PDF <span class="icon-profile"></span></button>
+    </div>
+</div>

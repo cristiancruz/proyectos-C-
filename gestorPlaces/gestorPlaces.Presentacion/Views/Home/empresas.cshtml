@@ -1,0 +1,178 @@
+﻿@{
+    ViewBag.Title = "empresas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model gestorPlaces.Nucleo.Entidades.Empresa
+@using gestorPlaces.Nucleo.Entidades;
+
+
+<section id="area-busquedas">
+    <button type="submit" class="btn-Registro "><a href="@Url.Action("ResetEmpresa","Home")"><span class="icon-plus"> </span>Registrar</a></button>
+    <input type="search" class="txtbuscador" placeholder="Buscar...">
+    <button type="submit" class="btn-search"><span class="icon-search"></span></button>
+</section>
+<p class="info-seccion" id="vete">En esta sección podrás gestionar la información sobre las empresas como por ejemplo dar de alta un registro, actualizarlo o eliminarlo. También se podrán gestionar las búsquedas basadas en diferentes criterios.</p>
+@if(@ViewBag.resetEmpresa == true){
+<div class="ventanaModalR">
+    <div class="content-modalR">
+        <div id="title-modal">
+            <h2>Registro Empresas</h2>
+            <button class="btn-modal regresarR"><a href="javascript:closeModalR();">Regresar<span class="icon-arrow-right"></span></a></button>
+        </div>
+        
+
+        <div class="info-modal">
+            <div id="formulario">
+
+                @using (Html.BeginForm("GuardarEmpresa", "Home", FormMethod.Get))
+                { 
+                <div class="labelform"><label for="name">Empresa:</label></div>
+                @Html.TextBoxFor(model => Model.Nombre, new { @required = "true" })
+
+                <div class="labelform"><label for="cliente">Cliente:</label></div>
+                <select name="idCliente" class="cbxMedidas" >
+                    @foreach(Cliente cliente in Cliente.ObteneTodos()){
+                        <option value=@cliente.Id>@cliente.Nombre</option>
+                    }
+                </select>
+
+                <div class="labelform"><label for="categoria">Categoria:</label></div>
+                 <select name="idCategoria" class="cbxMedidas">
+                    @foreach(Categoria categoria in Categoria.ObteneTodos()){
+                        <option value=@categoria.Id>@categoria.Nombre</option>
+                    }
+                </select>
+               
+
+                <div class="labelform"><label for="direccion">Direccion:</label></div>
+                @Html.TextBoxFor(model => Model.Direccion, new { @required = "true" })
+
+                <div class="labelform"><label for="descripcion">Descripcion:</label></div>
+                @Html.TextBoxFor(model => Model.Descripcion, new { @required = "true" })
+
+                <div class="labelform"><label for="telefono">Telefono:</label></div>
+                @Html.TextBoxFor(model => Model.Telefono, new { @required = "true" })
+               
+
+                <div id="btnGuardar">
+                    <button class="btn-modal">Guardar <span class="icon-checkmark"></span></button>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+}
+
+@if(@ViewBag.mostrarEmpresa == true){
+<div class="ventanaModal">
+    <div class="content-modal">
+        <div id="title-modal">
+            <h2>Informacion</h2>
+            <button class="btn-modal regresar"><a href="javascript:closeModal();">Regresar<span class="icon-arrow-right"></span></a></button>
+        </div>
+            
+        @if(@ViewBag.mostrarEmpresa == true){
+             <div class="info-modal">
+            @{string logotipo = @Model.Nombre + ".jpg";
+              string descripcion = "Logotipo de " + @Model.Nombre;  
+           <img src="~/img/no_disponible.jpg" alt="foto no dispobible">
+            }
+            <h3>@Model.Nombre</h3>
+            <p><strong>Telefono: </strong>@Model.Telefono</p>
+            <p><strong>Cliente : </strong>@Model.cliente.Nombre</p>
+            <p><strong>Categoria: </strong>@Model.categoria.Nombre</p>
+            <p><strong>Rating <span class="icon-star-full">: </strong>@Model.Rating</p>
+            <p><strong>Direccion: </strong>@Model.Direccion</p>
+            <p><strong>Descripcion: </strong>@Model.Descripcion</p>
+            <div class="buttons-modal">
+                <button type="submit" class="btn-modal"><a href="javascript:openModalEditEmpresas();">Editar<span class="icon-pencil"></span></a></button>
+                <a href="@Url.Action("EliminarEmpresa", "Home", new {@Model.Id})"><button type="submit" class="btn-modal">Eliminar<span class="icon-cross"></span></button></a>
+            </div>
+            </div>
+        
+        }
+       
+    </div>
+
+</div>
+}
+
+
+<div class="ventanaModal-edit-em">
+    <div class="content-modal-edit">
+        <div id="title-modal">
+            <h2>Edicion Empresas</h2>
+            <button class="btnModalsalir regresarR"><a href="javascript:closeModalEditEmpresas();"><span class="icon-cross"></span></a></button>
+        </div>
+
+        <div class="info-modal">
+            <div id="formulario">
+
+                @using (Html.BeginForm("EditarEmpresa", "Home", FormMethod.Get))
+                {
+                    <div class="labelform"><label for="name">Empresa:</label></div>
+                    @Html.TextBoxFor(model => Model.Nombre, new { @required = "true" })
+
+                    <div class="labelform"><label for="cliente">Cliente:</label></div>
+                    <select name="idCliente" class="cbxMedidas">
+                        @foreach (Cliente cliente in Cliente.ObteneTodos())
+                        {
+                            <option value=@cliente.Id>@cliente.Nombre</option>
+                        }
+                    </select>
+
+                    <div class="labelform"><label for="categoria">Categoria:</label></div>
+                    <select name="idCategoria" class="cbxMedidas">
+                        @foreach (Categoria categoria in Categoria.ObteneTodos())
+                        {
+                            <option value=@categoria.Id>@categoria.Nombre</option>
+                        }
+                    </select>
+
+
+                    <div class="labelform"><label for="direccion">Direccion:</label></div>
+                    @Html.TextBoxFor(model => Model.Direccion, new { @required = "true" })
+
+                    <div class="labelform"><label for="descripcion">Descripcion:</label></div>
+                    @Html.TextBoxFor(model => Model.Descripcion, new { @required = "true" })
+
+                    <div class="labelform"><label for="telefono">Telefono:</label></div>
+                    @Html.TextBoxFor(model => Model.Telefono, new { @required = "true" })
+                    @Html.HiddenFor(model => Model.Id)
+                    
+
+
+                    <div id="btnGuardar">
+                        <button class="btn-modal">Guardar <span class="icon-checkmark"></span></button>
+                    </div>
+                }
+            </div>
+        </div>
+
+
+
+
+    </div>
+</div>
+
+<div class="container-result">
+    <ul>
+        @foreach (Empresa empresa in Empresa.ObteneTodos())
+        {     
+            <li class="resultSearch listReset">
+                <a href="@Url.Action("MostrarEmpresa", "Home", new {@id = @empresa.Id})">
+                    @{string logotipo = @empresa.Nombre + ".jpg";
+                      string descripcion = "Logotipo de " + @empresa.Nombre;    
+                      <img src="~/img/no_disponible.jpg" alt="foto no dispobible">
+                    <h2>@empresa.Nombre</h2>
+                    <p>@empresa.Telefono</p>
+                    }
+                </a>
+            </li>
+        }
+    </ul>
+    
+    
+</div>

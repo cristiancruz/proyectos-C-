@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class lazy="false" table="Cliente" name="gestorPlaces.Nucleo.Entidades.Cliente, gestorPlaces.Nucleo">
+
+    <!--Id automático DB-->
+    <id name="Id" type="int">
+      <column name="id"/>
+      <generator class="identity"/>
+    </id>
+
+    <!-- Propiedad nombre -->
+    <property name="Nombre" type="string">
+      <column name="nombre"/>
+    </property>
+
+    <!-- Propiedad nombre -->
+    <property name="Telefono" type="string">
+      <column name="telefono"/>
+    </property>
+
+    <!-- Propiedad nombre -->
+    <property name="Tarifa" type="double">
+      <column name="tarifa"/>
+    </property>
+
+    <!-- Propiedad nombre -->
+    <property name="Pago" type="string">
+      <column name="pago"/>
+    </property>
+
+    <!-- Propiedad nombre -->
+    <property name="FechaDePago" type="string">
+      <column name="fechaDePago"/>
+    </property>
+
+  </class>
+</hibernate-mapping>

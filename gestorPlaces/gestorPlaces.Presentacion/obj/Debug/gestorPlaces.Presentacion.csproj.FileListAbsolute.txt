@@ -1,0 +1,288 @@
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll.config
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.pdb
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Antlr3.Runtime.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Optimization.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Providers.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\WebGrease.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.xml
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\EntityFramework.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Mvc.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Optimization.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Providers.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Razor.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.csprojResolveAssemblyReference.cache
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.dll
+c:\users\cristianalejandro\documents\visual studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll.config
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Iesi.Collections.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\MySql.Data.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\NHibernate.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Optimization.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Providers.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\WebGrease.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll.config
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Iesi.Collections.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\MySql.Data.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\NHibernate.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Optimization.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Providers.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\WebGrease.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Documents\Visual Studio 2015\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Cliente.hbm.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Cliente.hbm.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll.config
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Optimization.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Providers.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\WebGrease.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Documents\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Empresa.hbm.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Cliente.hbm.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Empresa.hbm.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll.config
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Optimization.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Providers.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\WebGrease.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Pictures\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Categoria.hbm.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Cliente.hbm.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Empresa.hbm.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Categoria.hbm.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll.config
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Presentacion.pdb
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Optimization.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Providers.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\WebGrease.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.pdb
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\EntityFramework.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\Newtonsoft.Json.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Net.Http.Formatting.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Http.WebHost.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Mvc.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.Razor.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.dll
+C:\Users\SantosV\Music\gestorPlaces\gestorPlaces.Presentacion\obj\Debug\gestorPlaces.Presentacion.pdb
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Cliente.hbm.xml
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Empresa.hbm.xml
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\Mappings\Categoria.hbm.xml
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.dll
+C:\Users\CristianAlejandro\Documents\Visual Studio 2013\Projects\gestorPlaces\gestorPlaces.Presentacion\bin\gestorPlaces.Nucleo.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestorPlaces.Presentacion", "gestorPlaces.Presentacion\gestorPlaces.Presentacion.csproj", "{2A492A43-20AD-4C3A-B0B8-926A5767B51E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestorPlaces.Nucleo", "gestorPlaces.Nucleo\gestorPlaces.Nucleo.csproj", "{271801DD-D71C-4864-98A8-30394934EA98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A492A43-20AD-4C3A-B0B8-926A5767B51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A492A43-20AD-4C3A-B0B8-926A5767B51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A492A43-20AD-4C3A-B0B8-926A5767B51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A492A43-20AD-4C3A-B0B8-926A5767B51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271801DD-D71C-4864-98A8-30394934EA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271801DD-D71C-4864-98A8-30394934EA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271801DD-D71C-4864-98A8-30394934EA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271801DD-D71C-4864-98A8-30394934EA98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
