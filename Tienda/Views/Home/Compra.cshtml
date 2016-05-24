@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Compra";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@model Tienda.Models.Mascota
+
+   @using Tienda.Models;
+
+<section class="Area-trabajo ">
+    <h3 class="colorTI">Mascotas</h3>
+    <h4 class="colorTI">Datos Sucursal Empalme</h4>
+    <br />
+    <div id="left">
+        <p>Nombre: <span>@Model.Nombre</span></p>
+        <p>Raza: <span>@Model.Raza</span></p>
+        <p>Descripcion: <span>@Model.Descripcion</span></p>
+        <p>Edad: <span>@Model.Edad</span></p>
+        <p>Precio: @Model.Precio</p>
+       
+             @if (Model.vacuna != null)
+                    {
+                        <p>Vacunas Incluidas: </p>
+                        foreach (Vacunas va in Model.vacuna)
+                        {
+                            <ul>
+                                <h1>
+                                <span>@va.NVacuna</span>
+                                <br /></h1>
+                            </ul>
+                        }
+                    }
+    </div>
+    <a href="@Url.Action("Registro","Home")" class="btn-1">Comprar</a>
+
+</section>
+
+
+
+
+
+
+   
+
+

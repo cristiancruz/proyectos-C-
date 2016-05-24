@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Tiket";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Tienda.Models.Mascota
+
+@using Tienda.Models;
+
+<section class="Area-trabajo ">
+    <h3 class="colorTI">DOG STORE</h3>
+    <h4 class="colorTI">Sucursal Empalme</h4><br />
+    <div id="left">
+        <p class="colorTI">Datos Mascota:</p>
+        <p>Nombre: <span>@Model.Nombre</span></p>
+        <p>Raza: <span>@Model.Raza</span></p>
+        <p>Descripcion: <span>@Model.Descripcion</span></p>
+        <p>Edad: <span>@Model.Edad</span></p>
+        <p>Precio: @Model.Precio</p>
+
+        @if (Model.vacuna != null)
+        {
+            <p>Vacunas Incluidas: </p>
+            foreach (Vacunas va in Model.vacuna)
+            {
+                <ul>
+                    <h1>
+                        <span>@va.NVacuna</span>
+                        <br />
+                    </h1>
+                </ul>
+            }
+        }
+        else
+        {
+                <p class="colorTI">Vacunas Incluidas: </p>
+                <p>Para rabia</p>
+                <p>Para Gripe</p>
+                <p>Para moquillo</p>      
+                <p class="colorTI">*Vacunas Extra: </p>
+                <p>@Model.VacunasEX</p>   
+        }
+        <p class="colorTI">Datos comprador</p>
+        <p>Nombre: @Model.Nombrep</p>
+        <p>Apellido: @Model.Apellidop</p>
+        <p>Direccion:    @Model.Direccionp</p>
+        <p> Telefono: @Model.Telefonop</p>
+    </div>
+</section>

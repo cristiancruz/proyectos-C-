@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Tiket";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model Tienda.Models.Mascota
+@using Tienda.Models;
+
+
+<section class="Area-trabajo ">
+    <h3 class="colorTI">Registrar Datos Mascota</h3>
+    
+
+    @using (Html.BeginForm("Guardar", "Home", FormMethod.Post))
+    {
+        <div >
+            <div>
+                @Html.TextAreaFor(model => Model.Nombre, new { @class = " form-control", id = "nombre", placeholder = "Escribe nuevo nombre ", })<br />
+                @Html.TextAreaFor(model => Model.Raza, new { @class = "form-control", id = "raza", placeholder = "Escribe la raza" })<br />
+                @Html.TextAreaFor(model => Model.Descripcion, new { @class = "form-control", id = "descripcion", placeholder = "Escribe una descripcion amplia" })<br />
+                @Html.TextAreaFor(model => Model.Edad, new { @class = "form-control", id = "edad", placeholder = "Escribe la edad" })<br />
+                @Html.TextAreaFor(model => Model.Precio, new { @class = "form-control", id = "precio", placeholder = "Escribe el precio" })<br />
+                @Html.TextAreaFor(model => Model.VacunasEX, new { @class = "form-control", id = "vacuna", placeholder = "Escribe las vacunas" })<br />
+             
+            </div>
+            <h3 class="colorTI">Registrar Datos Cliente</h3>
+            <div>
+                @Html.TextAreaFor(model => Model.Nombrep, new { @class = " form-control", id = "nombre", placeholder = "Escribe el nombre ", })<br />
+                @Html.TextAreaFor(model => Model.Apellidop, new { @class = "form-control", id = "apell", placeholder = "Escribe el apellido" })<br />
+                @Html.TextAreaFor(model => Model.Direccionp, new { @class = "form-control", id = "dire", placeholder = "Escribe la direccion" })<br />
+                @Html.TextAreaFor(model => Model.Telefonop, new { @class = "form-control", id = "tel", placeholder = "Escribe el telefono" })<br />
+             
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-xs-12">
+                <button type="submit" class="btn btn-success btn-lg">Guardar</button>
+
+            </div>
+        </div>
+    }
+    @if (ViewBag.Message != null)
+    {
+        <label class="alerta">@ViewBag.Message</label>
+    }
+
+</section>
+
